@@ -5,6 +5,9 @@
     font-family:'montserrat';
     color: #fff;
 }
+body{
+    text-align: center;
+}
 .cursor{
     height: 20px;
     width: 20px;
